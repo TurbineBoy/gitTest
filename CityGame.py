@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+from time import sleep
+
 """
 We are creating a game called ________
 It is about a man in a city.
